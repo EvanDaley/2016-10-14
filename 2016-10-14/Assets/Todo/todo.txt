@@ -1,0 +1,11 @@
+add a basic tutorial
+
+start player with gun
+
+when player clicks the gun fires at that spot until the clip runs out
+the player can click somewhere else to retarget and the gun keeps firing until the clip is empty
+
+dropship
+drops enemies onto the path, halo style
+
+button for shield (stop moving)

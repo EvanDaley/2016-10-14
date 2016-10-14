@@ -7,6 +7,7 @@ public class NavmeshPlayer : MonoBehaviour {
 	public NavMeshAgent agent;
 	private int movementStatus = 0;
 
+
 	void Start()
 	{
 		agent.updateRotation = false;
